@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">EnergyMaster</string>
+    <string name="titulo">EFICIENCIA ENERGETICA</string>
+    <string name="contenido_inicial">
+        Definimos EFICIENCIA ENERGÉTICA como el uso eficiente de la energía.
+        Un aparato, proceso o instalación es energéticamente eficiente cuando
+        consume una cantidad inferior a la media de energía para realizar una actividad.
+\n\n
+        Una persona, servicio o producto eficiente comprometido con el medio ambiente, además de
+        necesitar menos energía para realizar el mismo trabajo, también busca abastecerse, si no por completo,
+        con la mayor cantidad posible de energías renovables (también llamadas energías alternativas).
+\n\n
+        La eficiencia energética busca proteger el medio ambiente para eso existe ENERGY MASTER
+
+
+
+    </string>
+    <string name="entrar">ENTRAR</string>
+    <string name="toastmsj">Favor iniciar Sesion  o \n Registrarse</string>
+    <string name="tituloinisesion">Inicio de sesión</string>
+    <string name="txtusuario">Usuario :</string>
+    <string name="txtpass">Contraseña</string>
+    <string name="hintusuario">Ingrese Usuario EJEMPLO@gmail.com</string>
+    <string name="iniciar">INICIAR</string>
+    <string name="txtnuevoregistro">Si eres nuevo clic en </string>
+    <string name="pagina_de_registro">PAGINA DE REGISTRO</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="repetirpass">Repetir Contraseña</string>
+    <string name="repetirpass_hint">Confirme Contraseña</string>
+    <string name="hint_digite_su_contrase_a_aqui">Digite su Contraseña aqui</string>
+    <string name="control_del_hogar">CONTROL DEL HOGAR</string>
+    <string name="titulocontenido">ENERGYMASTER-CONTROL</string>
+    <string name="TXTcalculadora_de_consumo">CALCULADORA DE CONSUMO</string>
+    <string name="txttips_de_consumo">TIPS DE CONSUMO</string>
+    <string name="TXTMICASA">EN ESTA ACTIVIDAD SE PODRA CONTROLAR \n LA ILUMINARIA DEL HOGAR</string>
+    <string name="txtsubtitulovideo">VIDEOS PARA MEJORAR CONSUMO</string>
+    <string name="mensajetips">TIPS DE CONSUMO</string>
+    <string name="mensajestips">
+        1. Usa la luz eléctrica sólo en días muy oscuros o cuando sea necesario.
+        \n\n2. Si tienes ventilador o aire acondicionado en tu colegio o en tu hogar apágalo cuando salgas.
+        \n\n3. Apaga y desconecta computadores, televisores y luces cuando salgas del salón o de tu hogar.
+        \n\n4. Activa la función de ahorro de energía en el computador y en el celular.
+        \n\n5. No te duermas con el televisor prendido. \n\n
+
+    </string>
+    <string name="mensajestips1">
+        \n\n1. Apaga la luz del baño mientras haya luz del día.
+    \n\n2. Imprime y saca fotocopias, solo cuando sea necesario.
+    \n\n3. Conecta en una sola multitoma tu computador, modem, impresor y parlantes.
+    \n\n4. Promueve en tu colegio y en tu hogar el uso de bombillos ahorradores, disminuyen el consumo de energía en un 80%.
+    \n\n5. Enséñales a tus papas que las puertas de la nevera no se deben dejar abiertas. \n\n
+    </string>
+    <string name="mensajestips2">
+        \n\n1. Usa focos de bajo consumo: ahorran hasta un 75% de energía.
+    \n\n2. Apaga la luz cuando salgas de una habitación.
+    \n\n3. Utiliza lo más posible la luz natural, abre las cortinas y persianas.
+    \n\n4. Si requieres calefacción, gradúa el termostato a 20º C o menos y abrígate un poco más dentro de casa. Cada grado suplementario representa un 7% más de consumo energético.
+    \n\n5. Si requieres el uso de aire acondicionado, gradúa el termostato a una temperatura soportable, utiliza ropa clara y ligera que te permita reflejar de manera eficiente la radiación solar. Cada grado suplementario del aire acondicionado representa un 7% más de consumo energético. \n\n
+     \n\n
+    </string>
+    <string name="mensajestips3">
+        \n\n1. Apaga tu ordenador si no lo estás utilizando: un aparato en posición de espera puede representar hasta un 70% de su consumo diario.
+        \n\n2. Desconecta todos los aparatos eléctricos que no estés utilizando, al estar conectados consumen energía (aunque no estén encendidos).
+        \n\n3. Si está dentro de tus posibilidades usa energías alternativas para la producción de electricidad, como celdas fotovoltaicas para utilizar la energía solar, generadores eólicos (movidos por la acción del viento), entre otros.
+        \n\n4. Evita usar la plancha y las cafeteras en exceso.
+        \n\n5.    Si se tienen estufas eléctricas es mejor sustituirlas por estufas de gas. \n\n
+    </string>
+
+
+</resources>

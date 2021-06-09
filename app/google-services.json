@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "848532716075",
+    "project_id": "energymaster-7862a",
+    "storage_bucket": "energymaster-7862a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848532716075:android:9ed9eac49584ce10cc086e",
+        "android_client_info": {
+          "package_name": "com.pacheco.energymaster"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848532716075-0ki7kmjag5o9vn1ami0kr2p1aub1d1l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pacheco.energymaster",
+            "certificate_hash": "caf52f1d46b714a63ef20b00694c070bece869d7"
+          }
+        },
+        {
+          "client_id": "848532716075-ilh5rc2m946f7j09lgh01rn8do938ep9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKoMbmyYC5D8Fppzof9TjpcPur75L1X6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848532716075-ilh5rc2m946f7j09lgh01rn8do938ep9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

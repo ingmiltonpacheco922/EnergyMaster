@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="opctiempo">
+        <item>---</item>
+        <item>1 a 2 HORAS</item>
+        <item>2 a 5 HORAS</item>
+        <item>5 a 8 HORAS</item>
+        <item>MAS DE 8 HORAS</item>
+
+    </string-array>
+</resources>

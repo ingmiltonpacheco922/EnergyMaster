@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Calculadora">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/titulocalculadora"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Calculadora"
+                android:textSize="20dp"
+                android:textStyle="bold"
+
+                tools:layout_editor_absoluteY="49dp" />
+
+            <Spinner
+                android:id="@+id/spinerelectrodomestico"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="#FFEB3B"
+
+
+                />
+
+            <TextView
+                android:id="@+id/txttiempouso"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:text="Seleccione el tiempo de uso:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                tools:layout_editor_absoluteY="49dp" />
+
+            <Spinner
+                android:id="@+id/spinertiempo"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="10dp"
+                android:background="#03A9F4"
+                android:scrollbarStyle="insideOverlay" />
+
+            <Button
+                android:id="@+id/calcularconsumo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="CALCULAR"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:onClick="Calcularprom"
+                />
+
+            <TextView
+                android:id="@+id/resultadocalculado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RESPUESTA APROX. DE CONSUMO"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:gravity="center"
+                android:layout_margin="10dp"/>
+            <TextView
+                android:id="@+id/txtresultadocalculado"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="--"
+                android:gravity="center"
+                android:textSize="30dp"
+                android:textStyle="bold"
+                android:layout_margin="10dp"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
